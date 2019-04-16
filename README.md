@@ -11,7 +11,7 @@ If you want to change the base time unit, you can change config.txt configuratio
 
 If you want to change the lamport clock start time, you can change servers.txt or clients.txt. The last number in each line the lamport clock time.
 
-Run servers and clients:
+Run servers and clients or just the config.bat file:
 
 -In dc21, run this line from configure: java -jar Mutex_Server.jar Server-01 servers.txt files.txt
 
